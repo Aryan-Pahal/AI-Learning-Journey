@@ -1,0 +1,17 @@
+Company Name: TechShop India
+Products: Smartphones, Laptops, Earphones, Smartwatches
+
+Return Policy:
+- Products can be returned within 30 days of purchase
+- Item must be in original packaging
+- Refund will be processed within 5-7 business days
+
+Shipping Policy:
+- Free shipping on orders above ₹999
+- Standard delivery: 3-5 business days
+- Express delivery: 1-2 business days for ₹99 extra
+
+Contact:
+- Email: support@techshopindia.com
+- Phone: 1800-123-4567
+- Working hours: Mon-Sat, 9AM to 6PM
